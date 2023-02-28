@@ -1,3 +1,4 @@
+#윤년
 a=int(input())
 if (a%400)==0 :
     print('1')
